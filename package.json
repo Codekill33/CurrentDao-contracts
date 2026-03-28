@@ -30,10 +30,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-<<<<<<< HEAD
   "type": "module",
-=======
->>>>>>> b6dd6aa8a11a3a136cd3b7ca91328f5cb281cecb
   "bugs": {
     "url": "https://github.com/Codekill33/CurrentDao-contracts/issues"
   },
@@ -44,11 +41,6 @@
     "jest": "^30.3.0",
     "ts-jest": "^29.4.6",
     "ts-node": "^10.9.2",
-<<<<<<< HEAD
-    "typescript": "^6.0.2",
-    "@types/node": "^22.0.0"
-=======
-    "typescript": "^5.9.3"
->>>>>>> b6dd6aa8a11a3a136cd3b7ca91328f5cb281cecb
+    "typescript": "^6.0.2"
   }
 }
